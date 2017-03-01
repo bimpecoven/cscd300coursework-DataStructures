@@ -1,0 +1,3 @@
+this program has a time cost of O(nLogn) because it consists of many constant variables and 
+does not contain and nested loops. a nested loop would cause a time cost of O(n^2), such as
+the iterative version of this program.

@@ -1,0 +1,1 @@
+I used the FIFO queues by simply comparing all the head items and taking the smallest out and calling enqueue for the ListQueue

@@ -1,0 +1,2 @@
+i use the circular linked list for round robin scheduling by referencing the next node
+and keeping track of the id's to subtract the time.

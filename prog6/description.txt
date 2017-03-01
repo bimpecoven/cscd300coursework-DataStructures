@@ -1,0 +1,1 @@
+i used the same implementation of the quick sort that is used on an array, targeting nodes using for loops logically keeping location of the nodes with 0 based indexing.

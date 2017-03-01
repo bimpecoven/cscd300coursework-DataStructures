@@ -1,0 +1,3 @@
+when modifying the binary search algorithm, i simply made one binary search always look
+to the left of the found number, and the other search to the right. this made it so one
+was always finding the lowest index, and one was always finding the highest index.
